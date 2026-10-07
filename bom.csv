@@ -1,0 +1,19 @@
+Qty,Category,Item,Specification / Suggested Part,Purpose / Notes
+1,Compute,Raspberry Pi 4 Model B,"Raspberry Pi 4B, 2GB or 4GB RAM",Main controller
+2,Display,4-inch display,4-inch HDMI/DSI-compatible display,Two displays
+1,Touch display,EJTOUCTIK capacitive touch display set,Capacitive touch display assembly,Touch input
+12,Input,Momentary push button,Panel-mount or tactile push button,Primary controls; final quantity can be adjusted
+1,Power,USB-C 5V power supply,"5V, 3A+ Raspberry Pi-compatible supply",Main power
+1,Power,Power switch,SPST/SPDT on-off switch,Main power control
+1,Storage,MicroSD card,"32GB or larger, Raspberry Pi compatible",Operating system/storage
+1,Cooling,Raspberry Pi heatsink/fan kit,5V fan + heatsinks,Recommended for Pi 4
+1,Prototype,Full-size solderless breadboard,830-point breadboard,Prototype wiring; no PCB required
+1,Wiring,Jumper wire kit,"Male-male, male-female, female-female",Breadboard and display wiring
+1,Wiring,Dupont connector/wire set,2.54mm connectors,Display and GPIO connections
+1,Interface,USB keyboard/mouse (temporary),Standard USB,Setup/debugging; optional after setup
+1,Audio,Small 4Ω speaker,3W-class mini speaker,Optional sound output
+1,Audio,Small amplifier module,3.3V/5V-compatible,For speaker output if required
+1,Mechanical,M2/M2.5/M3 screw and standoff kit,Assorted nylon/metal hardware,Display and enclosure mounting
+1,Mechanical,3D-printed TemPad enclosure,Printed parts from tempad.stl,Project housing
+1,Misc,Resistor assortment,"220Ω, 1kΩ, 10kΩ typical values",LED/button pull-up and interface prototyping
+4,Indicator,5mm LED,Any standard-color LED,Status indicators
