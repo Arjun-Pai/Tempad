@@ -33,8 +33,6 @@ The printable model is:
 
 `tempad.stl`
 
-The STL has been renamed to `tempad.stl` for the project.
-
 ## Reference images
 
 ### TemPad reference
