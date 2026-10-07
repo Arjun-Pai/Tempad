@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Constants.qml</file>
+        <file>qmldir</file>
+        <file>Base.qml</file>
+        <file>Icons.qml</file>
+        <file>Frame.qml</file>
+        <file>PadText.qml</file>
+        <file>icon_arrow.png</file>
+        <file>icon_crosshair.png</file>
+        <file>icon_diag.png</file>
+        <file>icon_offset.png</file>
+        <file>icon_rss.png</file>
+        <file>MorePerfectDOSVGA.ttf</file>
+        <file>TimeVarianceAuthorityLogo.png</file>
+        <file>perlin.js</file>
+    </qresource>
+</RCC>
